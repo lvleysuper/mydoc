@@ -9,4 +9,8 @@ i feel ...
 
 --no-ff test
 
+<<<<<<< HEAD
 china is great
+=======
+new dev branch
+>>>>>>> dev
