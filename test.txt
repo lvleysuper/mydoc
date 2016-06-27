@@ -1,0 +1,16 @@
+hello,world
+what a fuck?
+what aaaaa fuck?
+every one should has its honor
+
+i feel sad,very sad
+
+i feel ...
+
+--no-ff test
+
+<<<<<<< HEAD
+china is great
+=======
+new dev branch
+>>>>>>> dev
